@@ -30,3 +30,6 @@ if something breaks again, then it might be for scipy. Use the following version
 pip install "scipy<=1.12"
 ```
 At the end, there may be a necessity for upgrading pip if the above process doesn't work. Make sure you have avaiable cuda version as well. 
+
+# Acknowledgement
+1. https://github.com/TensorSpeech/TensorFlowTTS
